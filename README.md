@@ -6,8 +6,7 @@
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logoColor=1a1a1a&labelColor=1a1a1a" />
 
-<img src="https://komarev.com/ghpvc/?username=r-maaz17&color=7DD3FC&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/r-maaz17?style=for-the-badge&color=7DD3FC&labelColor=1a1a1a" />
+
 
 </div>
 
