@@ -112,16 +112,7 @@ Secure offline password manager implementing AES-256 encryption, 2FA, and biomet
 
 <br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=r-maaz17&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-maaz17&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=c9d1d9" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=r-maaz17&theme=nord&border=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" width="70%" />
-
-</div>
 
 ## 🏆 Trophies
 
