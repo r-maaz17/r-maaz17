@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Muhammad%20Moaz&fontSize=40&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Computer+Vision+%7C+NLP+%7C+Full-Stack;Building+VDerm-X+%26+MediSummarizer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Computer+Vision+%7C+NLP+%7C+Full-Stack;Build+VDerm-X+%26+MediSummarizer" alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logoColor=1a1a1a&labelColor=1a1a1a" />
 
