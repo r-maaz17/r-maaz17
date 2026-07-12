@@ -35,7 +35,6 @@ const muhammadMoaz = {
 ### VDerm-X
 Full-stack computer vision app for real-time cattle disease (Lumpy Skin Disease) detection — 90%+ offline inference accuracy, with a 40% inference speed boost via TensorFlow Lite quantization, built for low-connectivity rural environments.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=r-maaz17&repo=VDerm-X&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC" />
 
 | Layer | Technology |
 |---|---|
@@ -50,7 +49,6 @@ Full-stack computer vision app for real-time cattle disease (Lumpy Skin Disease)
 ### MediSummarizer
 NLP system fine-tuning BioBERT to extract clinical symptoms from unstructured patient notes, achieving 95% precision.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=r-maaz17&repo=MediSummarizer&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC" />
 
 | Layer | Technology |
 |---|---|
@@ -63,7 +61,6 @@ NLP system fine-tuning BioBERT to extract clinical symptoms from unstructured pa
 ### Pro-Fit
 Full-stack gym management app streamlining scheduling for 150+ users, cutting admin booking errors by 90% through automation.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=r-maaz17&repo=Pro-Fit&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC" />
 
 | Layer | Technology |
 |---|---|
@@ -77,7 +74,6 @@ Full-stack gym management app streamlining scheduling for 150+ users, cutting ad
 ### PassMan
 Secure offline password manager implementing AES-256 encryption, 2FA, and biometric authentication with local storage.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=r-maaz17&repo=PassMan&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC" />
 
 | Layer | Technology |
 |---|---|
