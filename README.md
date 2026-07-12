@@ -23,7 +23,6 @@ const muhammadMoaz = {
     "Git", "Docker"
   ],
   launchedProjects: ["VDerm-X", "MediSummarizer", "Pro-Fit", "PassMan"],
-  certifications: [],
   status: "Actively seeking Machine Learning / AI Engineer roles",
   openTo: ["Full-time roles", "Remote opportunities", "Collaboration on AI/ML projects"],
 };
